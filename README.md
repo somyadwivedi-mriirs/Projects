@@ -1,4 +1,4 @@
-# Projects
+# Apparel Recommendation System
 Problem Statement:- To recommend similar items/products in e-commerce.
 
 This work is done as a part of the workshop conducted by Applied AI Course on Amazon Apparel Recommendation Engine. The data has been taken from Amazon.com in a policy compliant manner. Please Visit https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html for more information.
